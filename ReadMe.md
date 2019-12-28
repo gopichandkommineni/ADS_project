@@ -1,8 +1,5 @@
 # ADS Project Report Fall - 19
 
-Gopichand Kommineni: 03055523
-
-[gopichandk@ufl.edu](mailto:gopichandk@ufl.edu)
 
 **Programming Language:**
 To implement this Job Scheduler, I have used JAVA programming
